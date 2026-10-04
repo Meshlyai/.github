@@ -163,7 +163,7 @@ keep the trail that shows where they came from.
 </details>
 
 <details>
-<summary>🏭 <strong>Traditional businesses</strong></summary>
+<summary>🏪 <strong>Traditional businesses</strong></summary>
 
 Older systems, file-based exports, and month-end
 close done in spreadsheets. Meshly reads the files you already produce.
